@@ -31,7 +31,7 @@ Welcome to my **Data Structures** portfolio, developed as part of my coursework.
 ## 🛠️ Technologies
 - **Language**: C
 - **Build System**: CMake
-- **IDE**: Visual Studio Code / CLion
+- **IDE**: CLion
 
 ## 📁 Structure
 Each folder corresponds to a major topic and contains:
